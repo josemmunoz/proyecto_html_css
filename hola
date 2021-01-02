@@ -1,0 +1,23 @@
+<nav>
+        <ul>
+            <li class="uno">
+                <div class="capa_ico"><img class="icon" src="icon/pccomponentes.png"><br><a href="index.html">Inicio</a></div>
+            </li>
+            <li class="dos">
+                <div class="capa_ico"><img class="icon" src="icon/pccomponentes.png"><br><a href="quienes_somos.html">Quienes Somos</a></div>
+            </li>
+            <li class="tres">
+                <div class="capa_ico"><img class="icon" src="icon/pccomponentes.png"><br><a href="instalaciones.html">Instalaciones</a></div>
+            </li>
+            <li class="cuatro">
+                <div class="capa_ico"><img class="icon" src="icon/pccomponentes.png"><br><a href="servicios.html">Nuestros Servicios</a></div>
+            </li>
+            </li>
+            <li class="cinco">
+                <div class="capa_ico"><img class="icon" src="icon/pccomponentes.png"><br><a href="productos.html">Nuestros Producctos</a></div>
+            </li>
+            <li class="seis">
+                <div class="capa_ico"><img class="icon" src="icon/pccomponentes.png"><br><a href="contacto.html">Conctacto</a></div>
+            </li>
+        </ul>
+    </nav>
